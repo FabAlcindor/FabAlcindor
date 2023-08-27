@@ -7,6 +7,7 @@
     
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/FabAlcindor/ActiveDirectory)
-
+- <b>Web Development</b>
+  - [Develop a web-based game using HTML5, CSS, and Javascript](https://github.com/FabAlcindor/WebDev_Friend)
 
 <h2>Connect with me:</h2>
