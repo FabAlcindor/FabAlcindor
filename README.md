@@ -6,7 +6,7 @@
   - [Azure Virtual Machine and Vpn](https://github.com/FabAlcindor/VirtualMachinVPN/blob/main/README.md)
     
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/FabAlcindor/ActiveDirectory)
 
 
 <h2>Connect with me:</h2>
